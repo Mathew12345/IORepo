@@ -10,7 +10,7 @@ class Konto:
 		self.kwota += kwota
 
 	def nastepny_miesiac(self):
-	
+	"MODYFIKACJA"
 class Bank:
 	__typy_kont ={"dzienna":KontoKapDzienna;"miesieczna":KontoKapMiesieczna}
 	def __init__(self)
